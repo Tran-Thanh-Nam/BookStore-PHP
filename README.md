@@ -36,6 +36,7 @@
 
    
    + Trang thêm người dùng mới:
+   
    ![image](https://user-images.githubusercontent.com/101527833/170237738-b2733259-6452-43fc-8467-a87885c18108.png)
    
    + Trang chỉnh sửa lại thông tin người dùng:
