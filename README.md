@@ -29,6 +29,7 @@
 
    + Giao diện trang admin:
     . Người quản lý có thể xem các tài khoản khách với và có thể cấp quyền để thành quản trị viện
+    
     . thêm sửa xóa thành viên, nhân viên, sản phẩm .
    ![image](https://user-images.githubusercontent.com/101527833/170237484-99b46c43-0b12-4cfc-8539-5f2db2bf0c7b.png)
 
