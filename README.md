@@ -2,7 +2,7 @@
 ## Dùng PHP + Xampp.
 
 ## *Mô tả: 
-- Chương trình dùng Xampp để tạo cdsl là shopgiay trên PhpMyAdmin.
+- Chương trình dùng Xampp để tạo cdsl là qlns trên PhpMyAdmin.
 - Visual code để code và thực thi chương trình.
 - Chương trình dùng ngôn ngữ PHP.
 ### 1.	Sơ đồ diagrams:
